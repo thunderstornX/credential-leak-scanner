@@ -1,0 +1,21 @@
+{
+  "accuracy": 1.0,
+  "dataset_path": "eval/test_passwords.json",
+  "errors": 0,
+  "f1": 1.0,
+  "false_negatives": 0,
+  "false_positives": 0,
+  "latency_ms": {
+    "max": 786.32,
+    "mean": 286.06,
+    "median": 264.92,
+    "min": 256.45,
+    "p95": 281.72
+  },
+  "n": 25,
+  "precision": 1.0,
+  "recall": 1.0,
+  "true_negatives": 10,
+  "true_positives": 15,
+  "wall_clock_s": 12.34
+}
