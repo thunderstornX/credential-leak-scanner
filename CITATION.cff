@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software in academic work, please cite it as below."
+title: "credential-leak-scanner: A multi-source passive credential exposure scanner with graceful API degradation"
+authors:
+  - family-names: "Bhutto"
+    given-names: "Ali Murtaza"
+    orcid: "https://orcid.org/0009-0007-2787-943X"
+    affiliation: "Independent Researcher"
+license: MIT
+type: software
+repository-code: "https://github.com/thunderstornX/credential-leak-scanner"
+keywords:
+  - "credential exposure"
+  - "breach detection"
+  - "OSINT"
+  - "HaveIBeenPwned"
+  - "k-anonymity"
+  - "GitHub dorks"
+  - "defensive security"
+version: "0.1.0"
+date-released: "2026-05-06"
+doi: "10.5281/zenodo.XXXXXXX"

@@ -1,0 +1,33 @@
+{
+  "title": "credential-leak-scanner: A multi-source passive credential exposure scanner with graceful API degradation",
+  "description": "A Python CLI for defensive credential-exposure assessment that combines three passive sources: the HaveIBeenPwned Pwned Passwords k-anonymity API (no API key required), the HIBP breached-account lookup endpoint (key optional, gracefully skipped when absent), and a local CSV of synthetic breach records for cross-reference. Includes a Click CLI, an aggregation/risk-scoring layer, JSON reporting, an empirical eval harness that measures k-anonymity hit-rate and per-call latency on a labelled top-passwords test set, and an IEEE-style paper. Every external dependency degrades gracefully when keys are absent; nothing fabricates data.",
+  "creators": [
+    {
+      "name": "Bhutto, Ali Murtaza",
+      "orcid": "0009-0007-2787-943X",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "credential exposure",
+    "breach detection",
+    "OSINT",
+    "HaveIBeenPwned",
+    "k-anonymity",
+    "GitHub dorks",
+    "defensive security",
+    "passive reconnaissance"
+  ],
+  "communities": [
+    {"identifier": "ai-safety"}
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/thunderstornX/credential-leak-scanner",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "upload_type": "software"
+}
