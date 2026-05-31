@@ -14,6 +14,7 @@
 [![Bandit](https://img.shields.io/badge/bandit-0%20issues-brightgreen)](results/security_scan.md)
 [![pip-audit](https://img.shields.io/badge/pip--audit-0%20vulns-brightgreen)](results/security_scan.md)
 [![Semgrep](https://img.shields.io/badge/semgrep-0%20findings-brightgreen)](results/security_scan.md)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20480452.svg)](https://doi.org/10.5281/zenodo.20480452)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Zenodo](https://img.shields.io/badge/zenodo-DOI%20pending-9cf)](.zenodo.json)
 
