@@ -16,8 +16,6 @@
 [![Semgrep](https://img.shields.io/badge/semgrep-0%20findings-brightgreen)](results/security_scan.md)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20480452.svg)](https://doi.org/10.5281/zenodo.20480452)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Zenodo](https://img.shields.io/badge/zenodo-DOI%20pending-9cf)](.zenodo.json)
-
 `credential-leak-scanner` is a small Python pipeline that combines four
 structurally different passive sources into a single defensive
 credential-exposure report:
